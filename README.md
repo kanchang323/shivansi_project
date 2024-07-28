@@ -1,2 +1,2 @@
 # shivansi_project
-It my first demo project.sdsd
+It my first demo project. It's working on github
